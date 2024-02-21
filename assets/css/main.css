@@ -4,7 +4,7 @@
     Author: Oclata
     Description: Futurenet- IT Solutions & Technology HTML Template
     Version: 1.0
-    ¸ü¶àÏÂÔØ£ºhttp://www.bootstrapmb.com
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ø£ï¿½http://www.bootstrapmb.com
 -----------------------------------------------------------------------------------
 
 /************ TABLE OF CONTENTS ***************
@@ -7309,7 +7309,7 @@ body .ui-tooltip {
   z-index: 1;
 }
 .tp-hero-height {
-  min-height: 1150px;
+  min-height: 930px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .tp-hero-height {
@@ -9650,7 +9650,7 @@ body .ui-tooltip {
   z-index: -1;
 }
 .tp-counter-wrapper {
-  background: var(--tp-gradient-primary);
+  /* background: var(--tp-gradient-primary); */
   border-radius: 5px;
   padding: 55px 0 20px 50px;
 }
@@ -11364,5 +11364,7 @@ body .ui-tooltip {
 .tp-portfolio-btn .tp-btn {
   padding: 15px 30px;
 }
-
+.img-logo {
+  height: 55px;
+}
 /*# sourceMappingURL=main.css.map */
